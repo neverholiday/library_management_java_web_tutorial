@@ -124,7 +124,7 @@ export default function LessonApp() {
                 <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-200">
                     <h1 className="text-2xl font-bold text-slate-800 flex items-center gap-2">
                         <FileQuestion className="text-indigo-500" />
-                        บทเรียนอินเทอร์แอกทีฟ: UML และ MVC
+                        บทเรียน Interactive: UML และ MVC
                     </h1>
                     <p className="text-slate-600 mt-2">
                         เรียนรู้วิธีการแปลง Class Diagram จากโจทย์สอบให้กลายเป็นโครงสร้างโค้ด Java ได้อย่างถูกต้อง
